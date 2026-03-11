@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background: linear-gradient(60deg, #642ec9, #06194e);
+    color: white;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: Segoe UI, Segoe WP, Arial, Sans-Serif;
+}
+#root{
+    width: 70vw;
+    min-height: 100vh;
+}
